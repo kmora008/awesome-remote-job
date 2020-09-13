@@ -588,6 +588,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remoter.com](https://www.remoter.com/) - Ongoing initiative to create an educational platform about remote work.
   1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
+  1. [RemoteIndex](https://remoteindex.io) - A directory of the best remote job boards broken into categories.
 
 ## License
 
